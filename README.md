@@ -1,2 +1,4 @@
 # Kravix-data-analytics-assignment
-Retail Sales &amp; Customer Transactions Summary 
+To analyze sales performance, customer purchasing behavior, 
+departmental contribution, and operational efficiency to derive actionable 
+business insights. 
